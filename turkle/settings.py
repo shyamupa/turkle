@@ -163,7 +163,7 @@ LOGGING = {
     }
 }
 
-NEXT_HIT_ON_SUBMIT = False
+NEXT_HIT_ON_SUBMIT = True
 
 # Set max size for file uploads and POST requests to 100MB
 DATA_UPLOAD_MAX_MEMORY_SIZE = 104857600
